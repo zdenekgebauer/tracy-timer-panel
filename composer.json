@@ -1,0 +1,17 @@
+{
+    "name": "gebauer/tracy_timer",
+    "type": "project",
+    "description": "panel with timers for Tracy Debugger",
+    "license": ["WTFPL"],
+    "require": {
+        "php": ">=5.4",
+        "tracy/tracy": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Zdenek Gebauer",
+            "email": "zdenek.gebauer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
